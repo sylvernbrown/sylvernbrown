@@ -9,6 +9,7 @@
 - <b>Active Directory Installation and Utilization in Microsoft Azure (IN PROGRESS)</b>
   - [Configuring On-premises Active Directory within Azure VMs(deploying AD infrastructure & after)](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>Network File Shares and Permissions In Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
