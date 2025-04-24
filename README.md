@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/sylvernbrown/osticket-post-installation-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Active Directory Installation and Utilization in Microsoft Azure (IN PROGRESS)</b>
-  - [Configuring On-premises Active Directory within Azure VMs(deploying AD infrastructure & after)](https://github.com/joshmadakorcc/configure-ad)
+  - [Active Directory: On-premises Active Directory Deployed in the Cloud (Azure)(1/3)](https://github.com/sylvernbrown/azure-network-protocols)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>Network File Shares and Permissions In Active Directory</b>
