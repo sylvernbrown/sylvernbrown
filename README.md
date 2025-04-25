@@ -7,12 +7,12 @@
   - [osTicket: Post-Installation Configuration](https://github.com/sylvernbrown/osticket-post-installation-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Active Directory Installation and Utilization in Microsoft Azure (IN PROGRESS)</b>
-  - [Active Directory: On-premises Active Directory Deployed in the Cloud (Azure)(1/3)](https://github.com/sylvernbrown/azure-ad-1)
-  - [Active Directory: Deploying Active Directory & Creating Users with PowerShell in the Cloud (Azure)(2/3)](https://github.com/sylvernbrown/azure-ad-2)
-  - [Active Directory: Group Policy & Account Management in the Cloud (Azure)(3/3)](https://github.com/sylvernbrown/azure-ad-3)
-- <b>Network File Shares and Permissions In Active Directory</b>
+  - [Active Directory: On-premises Active Directory Deployed in the Cloud (Azure)(1/4)](https://github.com/sylvernbrown/azure-ad-1)
+  - [Active Directory: Deploying Active Directory & Creating Users with PowerShell in the Cloud (Azure)(2/4)](https://github.com/sylvernbrown/azure-ad-2)
+  - [Active Directory: Group Policy & Account Management in the Cloud (Azure)(3/4)](https://github.com/sylvernbrown/azure-ad-3)
+  - [Active Directory: Group Policy & Account Management in the Cloud (Azure)(4/4)](https://github.com/sylvernbrown/azure-ad-3)
+- <b>DNS Server: Installation & Utilization of Cloud-Based DNS Server</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
