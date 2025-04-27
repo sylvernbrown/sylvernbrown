@@ -10,7 +10,7 @@
   - [Active Directory: On-premises Active Directory Deployed in the Cloud (Azure)(1/4)](https://github.com/sylvernbrown/azure-ad-1)
   - [Active Directory: Deploying Active Directory & Creating Users with PowerShell (Azure)(2/4)](https://github.com/sylvernbrown/azure-ad-2)
   - [Active Directory: Group Policy & Account Management (Azure)(3/4)](https://github.com/sylvernbrown/azure-ad-3)
-  - [Yinzer (Azure)(4/4)](https://github.com/sylvernbrown/azure-ad-3)
+  - [Active Directory: Managing Permissions (Azure)(4/4)](https://github.com/sylvernbrown/azure-ad-4)
 - <b>DNS Server: Installation & Utilization of Cloud-Based DNS Server</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 
