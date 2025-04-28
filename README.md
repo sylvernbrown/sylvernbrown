@@ -7,10 +7,10 @@
   - [osTicket (2/3): Post-Installation Configuration](https://github.com/sylvernbrown/osticket-post-installation-config)
   - [osTicket (3/3): Ticket Lifecycle Examples](https://github.com/sylvernbrown/osticket-lifestyle-ex)
 - <b>Active Directory Installation and Utilization in Microsoft Azure </b>
-  - [Active Directory (1/4): On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/sylvernbrown/azure-ad-1)
-  - [Active Directory (2/4): Deploying Active Directory & Creating Users with PowerShell (Azure)](https://github.com/sylvernbrown/azure-ad-2)
-  - [Active Directory (3/4): Group Policy & Account Management (Azure)](https://github.com/sylvernbrown/azure-ad-3)
-  - [Active Directory (4/4): Managing Permissions (Azure)](https://github.com/sylvernbrown/azure-ad-4)
+  - [Active Directory (1/4): On-premises Active Directory Deployed in the Cloud ](https://github.com/sylvernbrown/azure-ad-1)
+  - [Active Directory (2/4): Deploying Active Directory & Creating Users with PowerShell ](https://github.com/sylvernbrown/azure-ad-2)
+  - [Active Directory (3/4): Group Policy & Account Management ](https://github.com/sylvernbrown/azure-ad-3)
+  - [Active Directory (4/4): Managing Permissions ](https://github.com/sylvernbrown/azure-ad-4)
 - <b>DNS Server: Installation & Utilization of Cloud-Based DNS Server</b>
   - [DNS (1/1): Managing Permissions (Azure)](https://github.com/sylvernbrown/azure-dns-1)
 <h2>🤳Connect with me:</h2>
