@@ -12,7 +12,7 @@
   - [Active Directory: Group Policy & Account Management (Azure)(3/4)](https://github.com/sylvernbrown/azure-ad-3)
   - [Active Directory: Managing Permissions (Azure)(4/4)](https://github.com/sylvernbrown/azure-ad-4)
 - <b>DNS Server: Installation & Utilization of Cloud-Based DNS Server</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [DNS](https://github.com/joshmadakorcc/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
