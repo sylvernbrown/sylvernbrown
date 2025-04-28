@@ -12,8 +12,8 @@
   - [Active Directory (3/4): Group Policy & Account Management (Azure)](https://github.com/sylvernbrown/azure-ad-3)
   - [Active Directory (4/4): Managing Permissions (Azure)](https://github.com/sylvernbrown/azure-ad-4)
 - <b>DNS Server: Installation & Utilization of Cloud-Based DNS Server</b>
-  - [DNS](1/1) (https://github.com/sylvernbrown/azure-dns-1)
-
+  - [DNS: Managing Permissions (Azure)](https://github.com/sylvernbrown/azure-dns-1)
+  - Active Directory (4/4): Managing Permissions (Azure)](https://github.com/sylvernbrown/azure-dns-1)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
