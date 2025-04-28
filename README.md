@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket (1/3): Installation Guide in Microsoft Azure](https://github.com/sylvernbrown/osticket-prereqs)
   - [osTicket (2/3): Post-Installation Configuration](https://github.com/sylvernbrown/osticket-post-installation-config)
-  - [osTicket (3/3): Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket (3/3): Ticket Lifecycle Examples](https://github.com/sylvernbrown/osticket-lifestyle-ex)
 - <b>Active Directory Installation and Utilization in Microsoft Azure (IN PROGRESS)</b>
   - [Active Directory (1/4): On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/sylvernbrown/azure-ad-1)
   - [Active Directory (2/4): Deploying Active Directory & Creating Users with PowerShell (Azure)](https://github.com/sylvernbrown/azure-ad-2)
